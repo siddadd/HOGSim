@@ -44,4 +44,17 @@ Piotr Dollar's Pedestrian Detection toolkit (http://www.vision.caltech.edu/Image
 - To run OpenCV HOG model
 > HoG_Test_Vehicle.exe -i inputDir -o outputDir -m 0 -gt groundtruthDir
 
+----------------
+Dependencies
+----------------
+
+OpenCV 2.4.11 (make sure the OpenCV dlls are in the Release folder)
+Dirent 1.20.1
+hwHOGDll (see lib folder)
+
+----------------
+License
+----------------
+
+This code is published under the MIT License.
 
